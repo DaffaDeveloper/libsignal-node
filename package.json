@@ -1,5 +1,5 @@
 {
-  "name": "@daffaadev/libsignal-node",
+  "name": "@daffaadev/signal-node",
   "version": "2.0.2",
   "description": "Open Whisper Systems' libsignal for Node.js",
   "main": "index.js",
