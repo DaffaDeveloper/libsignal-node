@@ -1,13 +1,10 @@
-{
+ {
   "name": "@daffaadev/signal-node",
   "version": "2.0.2",
   "description": "Open Whisper Systems' libsignal for Node.js",
   "main": "index.js",
   "license": "GPL-3.0",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/DaffaDeveloper/libsignal-node.git"
-  },
+  "repository": "daffadeveloper/signal-node",
   "keywords": [
     "signal",
     "whispersystems",
