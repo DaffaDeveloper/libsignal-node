@@ -1,6 +1,6 @@
 {
   "name": "@daffaravage/libsignal-node",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "Open Whisper Systems' libsignal for Node.js",
   "main": "index.js",
   "license": "GPL-3.0",
