@@ -1,22 +1,27 @@
 {
-  "name": "@DaffaDeveloper/libsignal-node",
+  "name": "@daffadeveloper/libsignal-node",
   "version": "2.0.1",
   "description": "Open Whisper Systems' libsignal for Node.js",
-  "repository": "DaffaDeveloper/libsignal-node",
   "main": "index.js",
+  "license": "GPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaffaDeveloper/libsignal-node.git"
+  },
   "keywords": [
     "signal",
     "whispersystems",
     "crypto"
   ],
-  "license": "GPL-3.0",
+  "files": [
+    "index.js",
+    "install.js",
+    "src"
+  ],
   "dependencies": {
     "curve25519-js": "^0.0.4",
     "protobufjs": "6.8.8"
   },
-  "files": [
-    "src/*"
-  ],
   "devDependencies": {
     "eslint": "6.0.1"
   }
